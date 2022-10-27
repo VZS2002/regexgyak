@@ -46,8 +46,8 @@ document.addEventListener("DOMContentLoaded", () => {
         else {
             document.body.innerHTML = "Sikeres fizetés";
             document.body.style.color = "green";
-            document.body.style.fontSize = "30px";
-            document.body.style.marginTop = "200px";
+            document.body.style.fontSize = "20px";
+            
         }
     });
 });
